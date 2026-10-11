@@ -1,0 +1,585 @@
+{
+  "schema_version": "1.0.0",
+  "course_id": "ai-workforce-readiness",
+  "course_version": "1.0.0",
+  "theme": "generic",
+  "modules": [
+    {
+      "id": "week-1",
+      "title": "Week 1: AI at Work—Useful, Imperfect, Optional",
+      "order": 1,
+      "activities": [
+        {
+          "id": "week-1-lecture-1",
+          "type": "lecture",
+          "title": "What Generative AI Does",
+          "order": 1,
+          "site_path": "modules/week-1/week-1-lecture-1/index.html",
+          "objective_ids": [
+            "clo1",
+            "explain-generative-ai"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-1-reading-1",
+          "type": "reading",
+          "title": "Generative AI as a Workplace Tool",
+          "order": 2,
+          "site_path": "modules/week-1/week-1-reading-1/index.html",
+          "objective_ids": [
+            "clo1",
+            "explain-generative-ai",
+            "identify-ai-limits"
+          ],
+          "asset_paths": [
+            "assets/assets/w1-r1-generative-ai-as-workplace-tool.svg"
+          ]
+        },
+        {
+          "id": "week-1-lecture-2",
+          "type": "lecture",
+          "title": "Choose a Suitable Task—or Do It Another Way",
+          "order": 3,
+          "site_path": "modules/week-1/week-1-lecture-2/index.html",
+          "objective_ids": [
+            "clo1",
+            "clo6",
+            "choose-low-risk-fit"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-1-reading-2",
+          "type": "reading",
+          "title": "Deciding When AI Fits",
+          "order": 4,
+          "site_path": "modules/week-1/week-1-reading-2/index.html",
+          "objective_ids": [
+            "clo6",
+            "identify-ai-limits",
+            "choose-low-risk-fit"
+          ],
+          "asset_paths": [
+            "assets/assets/w1-r2-deciding-when-ai-fits.svg"
+          ]
+        },
+        {
+          "id": "week-1-activity",
+          "type": "assignment",
+          "title": "Make an AI Task-Fit Map",
+          "order": 5,
+          "site_path": "modules/week-1/week-1-activity/index.html",
+          "objective_ids": [
+            "clo6",
+            "choose-low-risk-fit"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-1-quiz",
+          "type": "quiz",
+          "title": "Week 1 Applied Judgment Quiz",
+          "order": 6,
+          "site_path": "modules/week-1/week-1-quiz/index.html",
+          "objective_ids": [
+            "clo1",
+            "clo6"
+          ],
+          "asset_paths": []
+        }
+      ]
+    },
+    {
+      "id": "week-2",
+      "title": "Week 2: Define the Task and Provide Context",
+      "order": 2,
+      "activities": [
+        {
+          "id": "week-2-lecture-1",
+          "type": "lecture",
+          "title": "Turn a Vague Request into a Task Brief",
+          "order": 1,
+          "site_path": "modules/week-2/week-2-lecture-1/index.html",
+          "objective_ids": [
+            "clo2",
+            "convert-vague-request"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-2-reading-1",
+          "type": "reading",
+          "title": "The Five-Part Task Brief",
+          "order": 2,
+          "site_path": "modules/week-2/week-2-reading-1/index.html",
+          "objective_ids": [
+            "clo2",
+            "convert-vague-request",
+            "specify-output-format"
+          ],
+          "asset_paths": [
+            "assets/assets/w2-r1-five-part-task-brief.svg"
+          ]
+        },
+        {
+          "id": "week-2-lecture-2",
+          "type": "lecture",
+          "title": "Give Safe Context and Make the Result Usable",
+          "order": 3,
+          "site_path": "modules/week-2/week-2-lecture-2/index.html",
+          "objective_ids": [
+            "clo2",
+            "clo4",
+            "provide-safe-context",
+            "specify-output-format"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-2-reading-2",
+          "type": "reading",
+          "title": "Safe Context and Reviewable Outputs",
+          "order": 4,
+          "site_path": "modules/week-2/week-2-reading-2/index.html",
+          "objective_ids": [
+            "clo2",
+            "clo4",
+            "provide-safe-context",
+            "specify-output-format"
+          ],
+          "asset_paths": [
+            "assets/assets/w2-r2-safe-context-reviewable-output.svg"
+          ]
+        },
+        {
+          "id": "week-2-activity",
+          "type": "assignment",
+          "title": "Build and Review a Task Brief",
+          "order": 5,
+          "site_path": "modules/week-2/week-2-activity/index.html",
+          "objective_ids": [
+            "clo2",
+            "clo4",
+            "convert-vague-request",
+            "provide-safe-context"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-2-quiz",
+          "type": "quiz",
+          "title": "Week 2 Applied Judgment Quiz",
+          "order": 6,
+          "site_path": "modules/week-2/week-2-quiz/index.html",
+          "objective_ids": [
+            "clo2",
+            "clo4"
+          ],
+          "asset_paths": []
+        }
+      ]
+    },
+    {
+      "id": "week-3",
+      "title": "Week 3: Iterate, Collaborate, and Communicate",
+      "order": 3,
+      "activities": [
+        {
+          "id": "week-3-lecture-1",
+          "type": "lecture",
+          "title": "Steer the Draft Through Iteration",
+          "order": 1,
+          "site_path": "modules/week-3/week-3-lecture-1/index.html",
+          "objective_ids": [
+            "clo2",
+            "iterate-ai-drafts"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-3-reading-1",
+          "type": "reading",
+          "title": "From First Response to Useful Revision",
+          "order": 2,
+          "site_path": "modules/week-3/week-3-reading-1/index.html",
+          "objective_ids": [
+            "clo2",
+            "iterate-ai-drafts"
+          ],
+          "asset_paths": [
+            "assets/assets/w3-r1-purposeful-revision-loop.svg"
+          ]
+        },
+        {
+          "id": "week-3-lecture-2",
+          "type": "lecture",
+          "title": "Preserve Voice and Communicate Assistance",
+          "order": 3,
+          "site_path": "modules/week-3/week-3-lecture-2/index.html",
+          "objective_ids": [
+            "clo2",
+            "clo6",
+            "preserve-human-voice",
+            "disclose-ai-assistance"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-3-reading-2",
+          "type": "reading",
+          "title": "Keep the Message Yours: Voice, Claims, and Transparency",
+          "order": 4,
+          "site_path": "modules/week-3/week-3-reading-2/index.html",
+          "objective_ids": [
+            "clo3",
+            "clo6",
+            "preserve-human-voice",
+            "disclose-ai-assistance"
+          ],
+          "asset_paths": [
+            "assets/assets/w3-r2-keep-message-yours.svg"
+          ]
+        },
+        {
+          "id": "week-3-activity",
+          "type": "assignment",
+          "title": "Revise a Draft and Annotate Your Decisions",
+          "order": 5,
+          "site_path": "modules/week-3/week-3-activity/index.html",
+          "objective_ids": [
+            "clo2",
+            "clo3",
+            "iterate-ai-drafts",
+            "preserve-human-voice"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-3-quiz",
+          "type": "quiz",
+          "title": "Week 3 Applied Judgment Quiz",
+          "order": 6,
+          "site_path": "modules/week-3/week-3-quiz/index.html",
+          "objective_ids": [
+            "iterate-ai-drafts",
+            "preserve-human-voice",
+            "disclose-ai-assistance"
+          ],
+          "asset_paths": []
+        }
+      ]
+    },
+    {
+      "id": "week-4",
+      "title": "Week 4: Verify, Interpret, and Take Responsibility",
+      "order": 4,
+      "activities": [
+        {
+          "id": "week-4-lecture-1",
+          "type": "lecture",
+          "title": "Match the Check to the Claim",
+          "order": 1,
+          "site_path": "modules/week-4/week-4-lecture-1/index.html",
+          "objective_ids": [
+            "clo3",
+            "verify-ai-claims"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-4-reading-1",
+          "type": "reading",
+          "title": "Verification Begins with the Claim",
+          "order": 2,
+          "site_path": "modules/week-4/week-4-reading-1/index.html",
+          "objective_ids": [
+            "clo3",
+            "verify-ai-claims"
+          ],
+          "asset_paths": [
+            "assets/assets/w4-r1-verify-claims.svg"
+          ]
+        },
+        {
+          "id": "week-4-lecture-2",
+          "type": "lecture",
+          "title": "Read Uncertainty and Correct the Record",
+          "order": 3,
+          "site_path": "modules/week-4/week-4-lecture-2/index.html",
+          "objective_ids": [
+            "clo3",
+            "clo6",
+            "assess-uncertainty",
+            "correct-unsupported-claims"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-4-reading-2",
+          "type": "reading",
+          "title": "Uncertainty, Bias, and the Limits of a Conclusion",
+          "order": 4,
+          "site_path": "modules/week-4/week-4-reading-2/index.html",
+          "objective_ids": [
+            "clo3",
+            "clo4",
+            "assess-uncertainty",
+            "correct-unsupported-claims"
+          ],
+          "asset_paths": [
+            "assets/assets/w4-r2-uncertainty-bias.svg"
+          ]
+        },
+        {
+          "id": "week-4-activity",
+          "type": "assignment",
+          "title": "Audit a Flawed Workplace Draft",
+          "order": 5,
+          "site_path": "modules/week-4/week-4-activity/index.html",
+          "objective_ids": [
+            "clo3",
+            "verify-ai-claims",
+            "assess-uncertainty"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-4-quiz",
+          "type": "quiz",
+          "title": "Week 4 Applied Judgment Quiz",
+          "order": 6,
+          "site_path": "modules/week-4/week-4-quiz/index.html",
+          "objective_ids": [
+            "verify-ai-claims",
+            "assess-uncertainty",
+            "correct-unsupported-claims"
+          ],
+          "asset_paths": []
+        }
+      ]
+    },
+    {
+      "id": "week-5",
+      "title": "Week 5: Privacy, Fairness, Agents, and Autonomy",
+      "order": 5,
+      "activities": [
+        {
+          "id": "week-5-lecture-1",
+          "type": "lecture",
+          "title": "Protect Information Before You Prompt",
+          "order": 1,
+          "site_path": "modules/week-5/week-5-lecture-1/index.html",
+          "objective_ids": [
+            "clo4",
+            "protect-sensitive-information"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-5-reading-1",
+          "type": "reading",
+          "title": "Privacy, Safer Inputs, and Fair Use",
+          "order": 2,
+          "site_path": "modules/week-5/week-5-reading-1/index.html",
+          "objective_ids": [
+            "clo4",
+            "protect-sensitive-information"
+          ],
+          "asset_paths": [
+            "assets/assets/w5-r1-privacy-fair-inputs.svg"
+          ]
+        },
+        {
+          "id": "week-5-lecture-2",
+          "type": "lecture",
+          "title": "Agents, Tools, and Human Control",
+          "order": 3,
+          "site_path": "modules/week-5/week-5-lecture-2/index.html",
+          "objective_ids": [
+            "clo1",
+            "clo5",
+            "explain-agent-workflows",
+            "set-oversight"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-5-reading-2",
+          "type": "reading",
+          "title": "Agent Workflows Need Boundaries",
+          "order": 4,
+          "site_path": "modules/week-5/week-5-reading-2/index.html",
+          "objective_ids": [
+            "clo5",
+            "explain-agent-workflows",
+            "set-oversight"
+          ],
+          "asset_paths": [
+            "assets/assets/w5-r2-agent-boundaries.svg"
+          ]
+        },
+        {
+          "id": "week-5-activity",
+          "type": "assignment",
+          "title": "Create an Oversight Plan for a Bounded Agent",
+          "order": 5,
+          "site_path": "modules/week-5/week-5-activity/index.html",
+          "objective_ids": [
+            "clo4",
+            "clo5",
+            "protect-sensitive-information",
+            "set-oversight"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-5-quiz",
+          "type": "quiz",
+          "title": "Week 5 Applied Judgment Quiz",
+          "order": 6,
+          "site_path": "modules/week-5/week-5-quiz/index.html",
+          "objective_ids": [
+            "clo4",
+            "clo5",
+            "protect-sensitive-information",
+            "explain-agent-workflows",
+            "set-oversight"
+          ],
+          "asset_paths": []
+        }
+      ]
+    },
+    {
+      "id": "week-6",
+      "title": "Week 6: Build and Evaluate a Workplace Workflow",
+      "order": 6,
+      "activities": [
+        {
+          "id": "week-6-lecture-1",
+          "type": "lecture",
+          "title": "Design a Workflow Around a Real Need",
+          "order": 1,
+          "site_path": "modules/week-6/week-6-lecture-1/index.html",
+          "objective_ids": [
+            "clo5",
+            "design-ai-workflow"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-6-reading-1",
+          "type": "reading",
+          "title": "Design a Small, Bounded AI-Supported Workflow",
+          "order": 2,
+          "site_path": "modules/week-6/week-6-reading-1/index.html",
+          "objective_ids": [
+            "clo4",
+            "clo5",
+            "design-ai-workflow",
+            "protect-sensitive-information",
+            "set-oversight"
+          ],
+          "asset_paths": [
+            "assets/assets/w6-r1-bounded-workflow-map.svg"
+          ]
+        },
+        {
+          "id": "week-6-lecture-2",
+          "type": "lecture",
+          "title": "Test the Workflow and Decide What Comes Next",
+          "order": 3,
+          "site_path": "modules/week-6/week-6-lecture-2/index.html",
+          "objective_ids": [
+            "clo3",
+            "clo5",
+            "clo6",
+            "evaluate-ai-workflow"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-6-reading-2",
+          "type": "reading",
+          "title": "Evaluate, Document, and Hand Off an AI Workflow",
+          "order": 4,
+          "site_path": "modules/week-6/week-6-reading-2/index.html",
+          "objective_ids": [
+            "clo3",
+            "clo5",
+            "evaluate-ai-workflow"
+          ],
+          "asset_paths": [
+            "assets/assets/w6-r2-evaluate-document-handoff.svg"
+          ]
+        },
+        {
+          "id": "week-6-activity",
+          "type": "assignment",
+          "title": "Build a Workflow Dossier",
+          "order": 5,
+          "site_path": "modules/week-6/week-6-activity/index.html",
+          "objective_ids": [
+            "clo4",
+            "clo5",
+            "design-ai-workflow",
+            "evaluate-ai-workflow",
+            "protect-sensitive-information",
+            "set-oversight"
+          ],
+          "asset_paths": []
+        },
+        {
+          "id": "week-6-final-project",
+          "type": "final_project",
+          "title": "Responsible AI Workflow Dossier: Final Project",
+          "order": 6,
+          "site_path": "modules/week-6/week-6-final-project/index.html",
+          "objective_ids": [
+            "clo1",
+            "clo2",
+            "clo3",
+            "clo4",
+            "clo5",
+            "clo6",
+            "design-ai-workflow",
+            "evaluate-ai-workflow"
+          ],
+          "asset_paths": [
+            "assets/assets/know-input-own-output.png"
+          ]
+        },
+        {
+          "id": "week-6-quiz",
+          "type": "quiz",
+          "title": "Week 6 Applied Judgment Quiz",
+          "order": 7,
+          "site_path": "modules/week-6/week-6-quiz/index.html",
+          "objective_ids": [
+            "clo3",
+            "clo5",
+            "clo6",
+            "design-ai-workflow",
+            "evaluate-ai-workflow"
+          ],
+          "asset_paths": []
+        }
+      ]
+    }
+  ],
+  "assets": [
+    "assets/assets/know-input-own-output.png",
+    "assets/assets/w1-r1-generative-ai-as-workplace-tool.svg",
+    "assets/assets/w1-r2-deciding-when-ai-fits.svg",
+    "assets/assets/w2-r1-five-part-task-brief.svg",
+    "assets/assets/w2-r2-safe-context-reviewable-output.svg",
+    "assets/assets/w3-r1-purposeful-revision-loop.svg",
+    "assets/assets/w3-r2-keep-message-yours.svg",
+    "assets/assets/w4-r1-verify-claims.svg",
+    "assets/assets/w4-r2-uncertainty-bias.svg",
+    "assets/assets/w5-r1-privacy-fair-inputs.svg",
+    "assets/assets/w5-r2-agent-boundaries.svg",
+    "assets/assets/w6-r1-bounded-workflow-map.svg",
+    "assets/assets/w6-r2-evaluate-document-handoff.svg"
+  ]
+}
