@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "course_id": "ai-workforce-readiness",
   "course_version": "1.0.0",
-  "theme": "generic",
+  "theme": "minnesota-carlson",
   "modules": [
     {
       "id": "week-1",
@@ -19,7 +19,8 @@
             "clo1",
             "explain-generative-ai"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-1/week-1-lecture-1/index.html"
         },
         {
           "id": "week-1-reading-1",
@@ -33,8 +34,9 @@
             "identify-ai-limits"
           ],
           "asset_paths": [
-            "assets/assets/w1-r1-generative-ai-as-workplace-tool.svg"
-          ]
+            "assets/assets/w1-r1-generative-ai-as-workplace-tool-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-1/week-1-reading-1/index.html"
         },
         {
           "id": "week-1-lecture-2",
@@ -47,7 +49,8 @@
             "clo6",
             "choose-low-risk-fit"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-1/week-1-lecture-2/index.html"
         },
         {
           "id": "week-1-reading-2",
@@ -61,8 +64,9 @@
             "choose-low-risk-fit"
           ],
           "asset_paths": [
-            "assets/assets/w1-r2-deciding-when-ai-fits.svg"
-          ]
+            "assets/assets/w1-r2-deciding-when-ai-fits-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-1/week-1-reading-2/index.html"
         },
         {
           "id": "week-1-activity",
@@ -74,7 +78,8 @@
             "clo6",
             "choose-low-risk-fit"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-1/week-1-activity/index.html"
         },
         {
           "id": "week-1-quiz",
@@ -86,7 +91,8 @@
             "clo1",
             "clo6"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-1/week-1-quiz/index.html"
         }
       ]
     },
@@ -105,7 +111,8 @@
             "clo2",
             "convert-vague-request"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-2/week-2-lecture-1/index.html"
         },
         {
           "id": "week-2-reading-1",
@@ -119,8 +126,9 @@
             "specify-output-format"
           ],
           "asset_paths": [
-            "assets/assets/w2-r1-five-part-task-brief.svg"
-          ]
+            "assets/assets/w2-r1-five-part-task-brief-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-2/week-2-reading-1/index.html"
         },
         {
           "id": "week-2-lecture-2",
@@ -134,7 +142,8 @@
             "provide-safe-context",
             "specify-output-format"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-2/week-2-lecture-2/index.html"
         },
         {
           "id": "week-2-reading-2",
@@ -149,8 +158,9 @@
             "specify-output-format"
           ],
           "asset_paths": [
-            "assets/assets/w2-r2-safe-context-reviewable-output.svg"
-          ]
+            "assets/assets/w2-r2-safe-context-reviewable-output-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-2/week-2-reading-2/index.html"
         },
         {
           "id": "week-2-activity",
@@ -164,7 +174,8 @@
             "convert-vague-request",
             "provide-safe-context"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-2/week-2-activity/index.html"
         },
         {
           "id": "week-2-quiz",
@@ -176,7 +187,8 @@
             "clo2",
             "clo4"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-2/week-2-quiz/index.html"
         }
       ]
     },
@@ -195,7 +207,8 @@
             "clo2",
             "iterate-ai-drafts"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-3/week-3-lecture-1/index.html"
         },
         {
           "id": "week-3-reading-1",
@@ -208,8 +221,9 @@
             "iterate-ai-drafts"
           ],
           "asset_paths": [
-            "assets/assets/w3-r1-purposeful-revision-loop.svg"
-          ]
+            "assets/assets/w3-r1-purposeful-revision-loop-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-3/week-3-reading-1/index.html"
         },
         {
           "id": "week-3-lecture-2",
@@ -223,7 +237,8 @@
             "preserve-human-voice",
             "disclose-ai-assistance"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-3/week-3-lecture-2/index.html"
         },
         {
           "id": "week-3-reading-2",
@@ -238,8 +253,9 @@
             "disclose-ai-assistance"
           ],
           "asset_paths": [
-            "assets/assets/w3-r2-keep-message-yours.svg"
-          ]
+            "assets/assets/w3-r2-keep-message-yours-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-3/week-3-reading-2/index.html"
         },
         {
           "id": "week-3-activity",
@@ -253,7 +269,8 @@
             "iterate-ai-drafts",
             "preserve-human-voice"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-3/week-3-activity/index.html"
         },
         {
           "id": "week-3-quiz",
@@ -266,7 +283,8 @@
             "preserve-human-voice",
             "disclose-ai-assistance"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-3/week-3-quiz/index.html"
         }
       ]
     },
@@ -285,7 +303,8 @@
             "clo3",
             "verify-ai-claims"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-4/week-4-lecture-1/index.html"
         },
         {
           "id": "week-4-reading-1",
@@ -298,8 +317,9 @@
             "verify-ai-claims"
           ],
           "asset_paths": [
-            "assets/assets/w4-r1-verify-claims.svg"
-          ]
+            "assets/assets/w4-r1-verify-claims-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-4/week-4-reading-1/index.html"
         },
         {
           "id": "week-4-lecture-2",
@@ -313,7 +333,8 @@
             "assess-uncertainty",
             "correct-unsupported-claims"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-4/week-4-lecture-2/index.html"
         },
         {
           "id": "week-4-reading-2",
@@ -328,8 +349,9 @@
             "correct-unsupported-claims"
           ],
           "asset_paths": [
-            "assets/assets/w4-r2-uncertainty-bias.svg"
-          ]
+            "assets/assets/w4-r2-uncertainty-bias-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-4/week-4-reading-2/index.html"
         },
         {
           "id": "week-4-activity",
@@ -342,7 +364,8 @@
             "verify-ai-claims",
             "assess-uncertainty"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-4/week-4-activity/index.html"
         },
         {
           "id": "week-4-quiz",
@@ -355,7 +378,8 @@
             "assess-uncertainty",
             "correct-unsupported-claims"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-4/week-4-quiz/index.html"
         }
       ]
     },
@@ -374,7 +398,8 @@
             "clo4",
             "protect-sensitive-information"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-5/week-5-lecture-1/index.html"
         },
         {
           "id": "week-5-reading-1",
@@ -387,8 +412,9 @@
             "protect-sensitive-information"
           ],
           "asset_paths": [
-            "assets/assets/w5-r1-privacy-fair-inputs.svg"
-          ]
+            "assets/assets/w5-r1-privacy-fair-inputs-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-5/week-5-reading-1/index.html"
         },
         {
           "id": "week-5-lecture-2",
@@ -402,7 +428,8 @@
             "explain-agent-workflows",
             "set-oversight"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-5/week-5-lecture-2/index.html"
         },
         {
           "id": "week-5-reading-2",
@@ -416,8 +443,9 @@
             "set-oversight"
           ],
           "asset_paths": [
-            "assets/assets/w5-r2-agent-boundaries.svg"
-          ]
+            "assets/assets/w5-r2-agent-boundaries-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-5/week-5-reading-2/index.html"
         },
         {
           "id": "week-5-activity",
@@ -431,7 +459,8 @@
             "protect-sensitive-information",
             "set-oversight"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-5/week-5-activity/index.html"
         },
         {
           "id": "week-5-quiz",
@@ -446,7 +475,8 @@
             "explain-agent-workflows",
             "set-oversight"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-5/week-5-quiz/index.html"
         }
       ]
     },
@@ -465,7 +495,8 @@
             "clo5",
             "design-ai-workflow"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-lecture-1/index.html"
         },
         {
           "id": "week-6-reading-1",
@@ -481,8 +512,9 @@
             "set-oversight"
           ],
           "asset_paths": [
-            "assets/assets/w6-r1-bounded-workflow-map.svg"
-          ]
+            "assets/assets/w6-r1-bounded-workflow-map-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-reading-1/index.html"
         },
         {
           "id": "week-6-lecture-2",
@@ -496,7 +528,8 @@
             "clo6",
             "evaluate-ai-workflow"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-lecture-2/index.html"
         },
         {
           "id": "week-6-reading-2",
@@ -510,8 +543,9 @@
             "evaluate-ai-workflow"
           ],
           "asset_paths": [
-            "assets/assets/w6-r2-evaluate-document-handoff.svg"
-          ]
+            "assets/assets/w6-r2-evaluate-document-handoff-editorial.jpg"
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-reading-2/index.html"
         },
         {
           "id": "week-6-activity",
@@ -527,7 +561,8 @@
             "protect-sensitive-information",
             "set-oversight"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-activity/index.html"
         },
         {
           "id": "week-6-final-project",
@@ -547,7 +582,8 @@
           ],
           "asset_paths": [
             "assets/assets/know-input-own-output.png"
-          ]
+          ],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-final-project/index.html"
         },
         {
           "id": "week-6-quiz",
@@ -562,24 +598,29 @@
             "design-ai-workflow",
             "evaluate-ai-workflow"
           ],
-          "asset_paths": []
+          "asset_paths": [],
+          "site_url": "https://hodgkinr.github.io/bobpe-course-site-ai-workforce/modules/week-6/week-6-quiz/index.html"
         }
       ]
     }
   ],
   "assets": [
+    "assets/assets/home-hero--colorado-state.jpg",
+    "assets/assets/home-hero--cu-boulder.jpg",
+    "assets/assets/home-hero--generic.jpg",
+    "assets/assets/home-hero--minnesota-carlson.jpg",
     "assets/assets/know-input-own-output.png",
-    "assets/assets/w1-r1-generative-ai-as-workplace-tool.svg",
-    "assets/assets/w1-r2-deciding-when-ai-fits.svg",
-    "assets/assets/w2-r1-five-part-task-brief.svg",
-    "assets/assets/w2-r2-safe-context-reviewable-output.svg",
-    "assets/assets/w3-r1-purposeful-revision-loop.svg",
-    "assets/assets/w3-r2-keep-message-yours.svg",
-    "assets/assets/w4-r1-verify-claims.svg",
-    "assets/assets/w4-r2-uncertainty-bias.svg",
-    "assets/assets/w5-r1-privacy-fair-inputs.svg",
-    "assets/assets/w5-r2-agent-boundaries.svg",
-    "assets/assets/w6-r1-bounded-workflow-map.svg",
-    "assets/assets/w6-r2-evaluate-document-handoff.svg"
+    "assets/assets/w1-r1-generative-ai-as-workplace-tool-editorial.jpg",
+    "assets/assets/w1-r2-deciding-when-ai-fits-editorial.jpg",
+    "assets/assets/w2-r1-five-part-task-brief-editorial.jpg",
+    "assets/assets/w2-r2-safe-context-reviewable-output-editorial.jpg",
+    "assets/assets/w3-r1-purposeful-revision-loop-editorial.jpg",
+    "assets/assets/w3-r2-keep-message-yours-editorial.jpg",
+    "assets/assets/w4-r1-verify-claims-editorial.jpg",
+    "assets/assets/w4-r2-uncertainty-bias-editorial.jpg",
+    "assets/assets/w5-r1-privacy-fair-inputs-editorial.jpg",
+    "assets/assets/w5-r2-agent-boundaries-editorial.jpg",
+    "assets/assets/w6-r1-bounded-workflow-map-editorial.jpg",
+    "assets/assets/w6-r2-evaluate-document-handoff-editorial.jpg"
   ]
 }
